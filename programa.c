@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <windows.h>
 #include <conio.h>
-#include <unistd.
+#include <unistd.h>
 
 #define lin 20
 #define col 30
